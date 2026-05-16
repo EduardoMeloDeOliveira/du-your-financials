@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+
+    du-your-financials-db:
+      image: postgres:latest
+      container_name: du-your-financials-db
+      environment:
+        - POSTGRES_USER=root
+        - POSTGRES_PASSWORD=1033
+        - POSTGRES_DB=du-your-financials
+      ports:
+        - "5432:5432"
