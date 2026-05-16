@@ -1,8 +1,8 @@
-package com.financials.your.financials.back_end.commons.handler;
+package com.financials.your.financials.back_end.domains.commons.handler;
 
-import com.financials.your.financials.back_end.commons.exception.BusinessException;
-import com.financials.your.financials.back_end.commons.exception.NotFoundException;
-import com.financials.your.financials.back_end.commons.response.FinancialApiResponse;
+import com.financials.your.financials.back_end.domains.commons.exception.BusinessException;
+import com.financials.your.financials.back_end.domains.commons.exception.NotFoundException;
+import com.financials.your.financials.back_end.domains.commons.response.FinancialApiResponse;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package com.financials.your.financials.back_end.commons.entity;
+package com.financials.your.financials.back_end.domains.commons.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.MappedSuperclass;

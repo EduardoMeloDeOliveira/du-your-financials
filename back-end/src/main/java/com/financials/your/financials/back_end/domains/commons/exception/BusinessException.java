@@ -1,4 +1,4 @@
-package com.financials.your.financials.back_end.commons.exception;
+package com.financials.your.financials.back_end.domains.commons.exception;
 
 import org.springframework.http.HttpStatus;
 

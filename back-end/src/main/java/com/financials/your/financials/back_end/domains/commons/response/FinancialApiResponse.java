@@ -1,4 +1,4 @@
-package com.financials.your.financials.back_end.commons.response;
+package com.financials.your.financials.back_end.domains.commons.response;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 
